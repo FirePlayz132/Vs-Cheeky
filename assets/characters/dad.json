@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
 	"position": [
-		110,
-		390
+		100,
+		430
 	],
 	"healthicon": "dad",
 	"flip_x": false,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1.4
+	"scale": 1.7
 }
