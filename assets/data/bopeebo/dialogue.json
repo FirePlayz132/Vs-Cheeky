@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "o crap is that bf from fnf?!?!!??!",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+		{
+			"portrait": "bf",
+			"expression": "confused",
+			"text": "*confussed beep*",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "wanna rap battle? i heard ur rlly good at dat",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+		{
+			"portrait": "bf",
+			"expression": "pissed",
+			"text": "beep bop",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "alr, havent rap before so i might be a bit bad tho",
+			"boxState": "normal",
+			"speed": 0.05
+		}
+	]
+}
