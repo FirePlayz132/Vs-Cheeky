@@ -1,0 +1,24 @@
+{
+	"position": [
+		-140,
+		-70
+	],
+	"dialogue_pos": "left",
+	"scale": 1.0999999999999999,
+	"image": "GF_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "animone10008",
+			"loop_name": "animone10008"
+		}
+	]
+}
