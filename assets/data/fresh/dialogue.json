@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.5
+		},
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "hm... not bad",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "say bf, have u played super mario 64 before?",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "why dont u go to a painting?",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+		{
+			"portrait": "bf",
+			"expression": "pissed",
+			"text": "boop bop skdoo",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.5
+		},
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "alr, i see u wanna loss in front of a crowd kid",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+		{
+			"portrait": "gf",
+			"expression": "talk",
+			"text": "lets have on more then",
+			"boxState": "normal",
+			"speed": 0.05
+		}
+	]
+}
